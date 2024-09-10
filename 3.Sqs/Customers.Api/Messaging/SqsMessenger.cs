@@ -44,7 +44,7 @@ public class SqsMessenger : ISqsMessenger
         return response;
     }
 
-    private async Task<string> GetQueueUrlAsync()
+    private async ValueTask<string> GetQueueUrlAsync()
     {
         if (_queueUrl is not null)
             return _queueUrl;
