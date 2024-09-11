@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "+4FhOCOvGn7Z4S95vNCvNEy4a0998H3UpLoY7BgP6g0=",
+  "Source": "Movies.App",
+  "BasePath": "_content/Movies.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\denis\\RiderProjects\\AwsFundamentalsCourse\\5.DynamoDb\\Movies.App\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Movies.App.styles.css",
+      "SourceId": "Movies.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\denis\\RiderProjects\\AwsFundamentalsCourse\\5.DynamoDb\\Movies.App\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Movies.App",
+      "RelativePath": "Movies.App.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\denis\\RiderProjects\\AwsFundamentalsCourse\\5.DynamoDb\\Movies.App\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Movies.App.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\denis\\RiderProjects\\AwsFundamentalsCourse\\5.DynamoDb\\Movies.App\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Movies.App.bundle.scp.css",
+      "SourceId": "Movies.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\denis\\RiderProjects\\AwsFundamentalsCourse\\5.DynamoDb\\Movies.App\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Movies.App",
+      "RelativePath": "Movies.App.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\denis\\RiderProjects\\AwsFundamentalsCourse\\5.DynamoDb\\Movies.App\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Movies.App.bundle.scp.css"
+    }
+  ]
+}

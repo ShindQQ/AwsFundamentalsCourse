@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Movies.App/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.400.18"
+        },
+        "runtime": {
+          "Movies.App.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.400.18": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.400.18"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.400.18": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.400.18"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.400.18"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movies.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.400.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vZlO4v5srY/bb8kPIJFCIivSBrBULsklabqyrBM6XWqJYLCFJ74po6j0k0/P2EfgnkyamfTln2f6WjaNVhhARw==",
+      "path": "awssdk.core/3.7.400.18",
+      "hashPath": "awssdk.core.3.7.400.18.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.400.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QvD53hKztEuHypZutKEXUNh5qvn5qhcpOSlM5t5rtDALIuJHd65Gk2UF4ELgDKD+ZYiDwkx8jF+biYFyrKcjiQ==",
+      "path": "awssdk.dynamodbv2/3.7.400.18",
+      "hashPath": "awssdk.dynamodbv2.3.7.400.18.nupkg.sha512"
+    }
+  }
+}
