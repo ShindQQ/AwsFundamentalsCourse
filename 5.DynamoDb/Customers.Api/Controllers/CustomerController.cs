@@ -24,7 +24,7 @@ public class CustomerController : ControllerBase
 
         var customerResponse = customer.ToCustomerResponse();
 
-        return CreatedAtAction("Get", new { customerResponse.Id }, customerResponse);
+        return CreatedAtAction("Get", new { IdOrEmail = customerResponse.Id.ToString() }, customerResponse);
     }
 
     [HttpGet("customers/{idOrEmail}")]

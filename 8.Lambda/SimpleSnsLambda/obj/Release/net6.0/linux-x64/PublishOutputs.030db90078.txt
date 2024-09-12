@@ -1,0 +1,7 @@
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleSnsLambda\bin\Release\net6.0\publish\SimpleSnsLambda.deps.json
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleSnsLambda\bin\Release\net6.0\publish\SimpleSnsLambda.runtimeconfig.json
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleSnsLambda\bin\Release\net6.0\publish\SimpleSnsLambda.pdb
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleSnsLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleSnsLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleSnsLambda\bin\Release\net6.0\publish\Amazon.Lambda.SNSEvents.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleSnsLambda\bin\Release\net6.0\publish\SimpleSnsLambda.dll

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdUi7UCloVxCLcLO6ySU8MTzfJ8TaOAJkQDk+DxRSUM+LQNkb06V5s8phzmlbcp11hT4OVn64b134ieFzRfQ+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denis\\RiderProjects\\AwsFundamentalsCourse\\8.Lambda\\SimpleCustomLambda\\SimpleCustomLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\amazon.lambda.runtimesupport\\1.8.2\\amazon.lambda.runtimesupport.1.8.2.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.14\\microsoft.netcore.app.runtime.linux-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.14\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.14\\microsoft.netcore.app.crossgen2.win-x64.7.0.14.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.14\\microsoft.netcore.app.host.linux-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleS3Lambda\bin\Release\net6.0\publish\SimpleS3Lambda.deps.json
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleS3Lambda\bin\Release\net6.0\publish\SimpleS3Lambda.runtimeconfig.json
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleS3Lambda\bin\Release\net6.0\publish\SimpleS3Lambda.pdb
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleS3Lambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleS3Lambda\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleS3Lambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleS3Lambda\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleS3Lambda\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleS3Lambda\bin\Release\net6.0\publish\SixLabors.ImageSharp.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleS3Lambda\bin\Release\net6.0\publish\SimpleS3Lambda.dll

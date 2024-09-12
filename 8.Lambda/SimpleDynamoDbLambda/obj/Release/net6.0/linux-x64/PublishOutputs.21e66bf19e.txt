@@ -1,0 +1,9 @@
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleDynamoDbLambda\bin\Release\net6.0\publish\SimpleDynamoDbLambda.deps.json
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleDynamoDbLambda\bin\Release\net6.0\publish\SimpleDynamoDbLambda.runtimeconfig.json
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleDynamoDbLambda\bin\Release\net6.0\publish\SimpleDynamoDbLambda.pdb
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleDynamoDbLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleDynamoDbLambda\bin\Release\net6.0\publish\Amazon.Lambda.DynamoDBEvents.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleDynamoDbLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleDynamoDbLambda\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleDynamoDbLambda\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\denis\RiderProjects\AwsFundamentalsCourse\8.Lambda\SimpleDynamoDbLambda\bin\Release\net6.0\publish\SimpleDynamoDbLambda.dll

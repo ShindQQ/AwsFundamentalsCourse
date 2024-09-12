@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HO1FeKsxCvg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denis\\RiderProjects\\AwsFundamentalsCourse\\8.Lambda\\SimpleLambda\\src\\SimpleLambda\\SimpleLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.0\\microsoft.netcore.app.crossgen2.win-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
